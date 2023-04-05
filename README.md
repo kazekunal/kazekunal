@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on web dev projects<br>👯 I’m looking to collaborate on full-stack web development projects<br>🤝 I’m looking for help with frameworks<br>🌱 I’m currently learning React and Firebase<br>💬 Ask me about anything related to front-end development
+🔭 I’m currently working on web dev projects<br>👯 I’m looking to collaborate on full-stack web development projects<br>🤝 I’m looking for help with frameworks<br>🌱 I’m currently learning React and Firebase<br>💬 Ask me about anything related to front-end development<br>🏎️Interested in watching F1 anytime
 
 
 ## 🌐 Socials:
