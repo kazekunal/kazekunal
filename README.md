@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on web dev projects<br>👯 I’m looking to collaborate on full-stack web development projects<br>🤝 I’m looking for help with frameworks<br>🌱 I’m currently learning React and Firebase<br>💬 Ask me about anything related to front-end development<br>🏎️Interested in watching F1 anytime
+🔭 I’m currently working on web dev projects<br>👯 I’m looking to collaborate on full-stack web development projects<br>🤝 I’m looking for help with frameworks<br>🌱 I’m currently learning React and Firebase<br>💬 Ask me about anything related to front-end development<br>🏎️Interested in watching F1 anytime<br>🏓 Love playing Table Tennis 
 
 
 ## 🌐 Socials:
@@ -12,10 +12,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kazekunal&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kazekunal&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 😂 Random Dev Meme
+### 😂
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
