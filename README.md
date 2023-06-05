@@ -15,8 +15,5 @@
 ### ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 😂
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=kazekunal&icon=0&color=6)](https://visitcount.itsvg.in)
